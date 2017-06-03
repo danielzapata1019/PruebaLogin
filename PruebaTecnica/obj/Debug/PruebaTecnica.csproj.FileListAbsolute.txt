@@ -1,0 +1,9 @@
+c:\users\cadreadmin\documents\visual studio 2012\Projects\PruebaTecnica\PruebaTecnica\bin\PruebaTecnica.dll
+c:\users\cadreadmin\documents\visual studio 2012\Projects\PruebaTecnica\PruebaTecnica\bin\PruebaTecnica.pdb
+c:\users\cadreadmin\documents\visual studio 2012\Projects\PruebaTecnica\PruebaTecnica\obj\Debug\PruebaTecnica.csprojResolveAssemblyReference.cache
+c:\users\cadreadmin\documents\visual studio 2012\Projects\PruebaTecnica\PruebaTecnica\obj\Debug\PruebaTecnica.dll
+c:\users\cadreadmin\documents\visual studio 2012\Projects\PruebaTecnica\PruebaTecnica\obj\Debug\PruebaTecnica.pdb
+C:\Users\CadreAdmin\Documents\Visual Studio 2012\Projects\PruebaTecnica\PruebaTecnica\bin\HT.Rules.dll
+C:\Users\CadreAdmin\Documents\Visual Studio 2012\Projects\PruebaTecnica\PruebaTecnica\bin\HT.Data.dll
+C:\Users\CadreAdmin\Documents\Visual Studio 2012\Projects\PruebaTecnica\PruebaTecnica\bin\HT.Rules.pdb
+C:\Users\CadreAdmin\Documents\Visual Studio 2012\Projects\PruebaTecnica\PruebaTecnica\bin\HT.Data.pdb

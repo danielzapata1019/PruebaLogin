@@ -1,0 +1,7 @@
+C:\Users\CadreAdmin\Documents\Visual Studio 2012\Projects\PruebaTecnica\HT.Rules\bin\Debug\HT.Rules.dll
+C:\Users\CadreAdmin\Documents\Visual Studio 2012\Projects\PruebaTecnica\HT.Rules\bin\Debug\HT.Rules.pdb
+C:\Users\CadreAdmin\Documents\Visual Studio 2012\Projects\PruebaTecnica\HT.Rules\bin\Debug\HT.Data.dll
+C:\Users\CadreAdmin\Documents\Visual Studio 2012\Projects\PruebaTecnica\HT.Rules\bin\Debug\HT.Data.pdb
+C:\Users\CadreAdmin\Documents\Visual Studio 2012\Projects\PruebaTecnica\HT.Rules\obj\Debug\HT.Rules.csprojResolveAssemblyReference.cache
+C:\Users\CadreAdmin\Documents\Visual Studio 2012\Projects\PruebaTecnica\HT.Rules\obj\Debug\HT.Rules.dll
+C:\Users\CadreAdmin\Documents\Visual Studio 2012\Projects\PruebaTecnica\HT.Rules\obj\Debug\HT.Rules.pdb

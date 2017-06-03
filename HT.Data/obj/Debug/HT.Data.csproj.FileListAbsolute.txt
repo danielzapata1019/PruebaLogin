@@ -1,0 +1,6 @@
+C:\Users\CadreAdmin\Documents\Visual Studio 2012\Projects\PruebaTecnica\HT.Data\obj\Debug\HT.Data.csprojResolveAssemblyReference.cache
+C:\Users\CadreAdmin\Documents\Visual Studio 2012\Projects\PruebaTecnica\HT.Data\bin\Debug\HT.Data.dll.config
+C:\Users\CadreAdmin\Documents\Visual Studio 2012\Projects\PruebaTecnica\HT.Data\bin\Debug\HT.Data.dll
+C:\Users\CadreAdmin\Documents\Visual Studio 2012\Projects\PruebaTecnica\HT.Data\bin\Debug\HT.Data.pdb
+C:\Users\CadreAdmin\Documents\Visual Studio 2012\Projects\PruebaTecnica\HT.Data\obj\Debug\HT.Data.dll
+C:\Users\CadreAdmin\Documents\Visual Studio 2012\Projects\PruebaTecnica\HT.Data\obj\Debug\HT.Data.pdb
